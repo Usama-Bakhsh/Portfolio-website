@@ -1,6 +1,6 @@
 /* Usama Profilbillede */
 .Usama_profilbillede-img {
-    max-width: 50%; /* Billedet bliver aldrig bredere end 50% af skærmen */
+    max-width: 10%; /* Billedet bliver aldrig bredere end 50% af skærmen */
     height: auto; /* Sørger for at billedet ikke bliver strukket */
     display: block;
     margin: 20px auto;
