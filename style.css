@@ -27,4 +27,10 @@
   }
 
 /* Usama Profilbillede */
- 
+.Usama_profilbillede-img {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
