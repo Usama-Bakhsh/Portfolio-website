@@ -3,7 +3,7 @@
     display: block;
     margin: 20px auto; /* Centrer billedet */
     border-radius: 50%; /* Gør billedet rundt */
-    width: 15px; /* Justér bredden */
+    width: 1px; /* Justér bredden */
     height: auto; /* Bevar proportionerne */
     border: 3px solid #333; /* Tilføj en kant */
 }
