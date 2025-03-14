@@ -1,8 +1,8 @@
 /* Usama Profilbillede */
 .Usama_profilbillede-img {
-    width: 100%;
-    max-width: 400px;
+    max-width: 50%; /* Billedet bliver aldrig bredere end 50% af skærmen */
+    height: auto; /* Sørger for at billedet ikke bliver strukket */
     display: block;
-    margin: 10px auto;
-    border-radius: 10px;
+    margin: 20px auto;
+    border-radius: 50%;
 }
